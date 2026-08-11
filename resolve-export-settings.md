@@ -46,6 +46,12 @@ Final long-form upload.
 - Key Frames: Automatic
 - Frame Reordering: Enabled
 
+- Render: Single Clip
+- Hardware Acceleration: Enabled
+- Network Optimization: Disabled
+- Entropy Mode: Auto
+- Multi-pass Encode: Disabled
+
 ### Audio Export
 
 - Codec: Linear PCM
