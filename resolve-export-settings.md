@@ -9,6 +9,30 @@ This document contains all export presets used in my Syafka workflow.
 Purpose:
 Final long-form upload.
 
+## Syafka Title / Intro
+
+### Title
+- Resolve Title: Long Title Lower Third
+- Text:
+  SYAFKA |
+  WHEN DISTORTION BECOMES NORMALITY
+- Font: Open Sans
+- Weight: Bold
+- Colour: White
+- Size: 0.0394
+- Tracking: 1.165
+
+### Usage
+- Place title on V2 above the finished Avenue video.
+- Position at the beginning of the timeline.
+- Replace the second line with the current track title.
+- Keep "SYAFKA |" as the standard first line.
+
+### Audio
+- Use the final mastered WAV on A1.
+- Mute/remove the audio recorded by Avenue after alignment.
+- Use audio time units for precise master alignment if required.
+
 ### Video
 
 - Format: QuickTime
