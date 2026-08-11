@@ -9,9 +9,8 @@ This document contains all export presets used in my Syafka workflow.
 Purpose:
 Final long-form upload.
 
-## Syafka Title / Intro
+### Syafka Title / Intro
 
-### Title
 - Resolve Title: Long Title Lower Third
 - Text:
   SYAFKA |
@@ -23,18 +22,20 @@ Final long-form upload.
 - Tracking: 1.165
 - Duration: 5 seconds
 
-### Usage
+### Title Usage
+
 - Place title on V2 above the finished Avenue video.
 - Position at the beginning of the timeline.
 - Replace the second line with the current track title.
 - Keep "SYAFKA |" as the standard first line.
 
-### Audio
+### Master Audio Preparation
+
 - Use the final mastered WAV on A1.
 - Mute/remove the audio recorded by Avenue after alignment.
-- Use audio time units for precise master alignment if required.
+- Use Audio Time Units for precise master alignment if required.
 
-### Video
+### Video Export
 
 - Format: QuickTime
 - Codec: H.264
@@ -45,7 +46,7 @@ Final long-form upload.
 - Key Frames: Automatic
 - Frame Reordering: Enabled
 
-### Audio
+### Audio Export
 
 - Codec: Linear PCM
 - Sample Rate: Same as Project (48000Hz)
@@ -58,16 +59,16 @@ Final long-form upload.
 Purpose:
 Instagram, TikTok and YouTube Shorts.
 
-Timeline:
+### Timeline
 
-- 1080 x 1920
-- 30fps
+- Resolution: 1080 x 1920
+- Frame Rate: 30fps
 
-Export:
+### Export
 
-- QuickTime
-- H.264
-- 30000 Kb/s
-- High Profile
-- PCM Audio
-- 24-bit
+- Format: QuickTime
+- Codec: H.264
+- Quality: 30000 Kb/s
+- Encoding Profile: High
+- Audio: Linear PCM
+- Bit Depth: 24-bit
