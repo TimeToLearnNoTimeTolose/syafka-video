@@ -21,6 +21,7 @@ Final long-form upload.
 - Colour: White
 - Size: 0.0394
 - Tracking: 1.165
+- Duration: 5 seconds
 
 ### Usage
 - Place title on V2 above the finished Avenue video.
