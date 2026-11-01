@@ -26,12 +26,21 @@
 
 ## Title
 
-* Add `Long Title Lower Third`.
-* Use the default Syafka font and lettering.
-* Keep the title text consistent with the main video.
-* Move the title vertically so it sits around the middle of the frame.
-* Check that the title remains readable on a phone-sized display.
-* Keep text away from the extreme top, bottom and right-hand edges.
+- Add `Long Title Lower Third` on a video track above the footage.
+- First line: `SYAFKA |`
+- Second line: current track title in capitals.
+- Font: Open Sans
+- Weight: Bold
+- Colour: White
+- Size: 0.0591
+- Tracking: 1.165
+- Line Spacing: 1.0
+- Keep text left-aligned.
+- Position the title below the centre of the vertical frame, as in the reference layout.
+- Adjust size or line breaks for longer track titles.
+- Check readability on a phone-sized display.
+- Keep text away from the extreme top, bottom and right-hand edges so platform controls do not cover it.
+- Check that the imported video does not already contain a visible title before adding another.
 
 ## Export
 
