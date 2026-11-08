@@ -26,21 +26,31 @@
 
 ## Title
 
-- Add `Long Title Lower Third` on a video track above the footage.
-- First line: `SYAFKA |`
-- Second line: current track title in capitals.
-- Font: Open Sans
-- Weight: Bold
+## Title
+
+1. Copy the `Long Title Lower Third` clip from the previous Reel onto a video track above the footage. This keeps the same styling and position each time.
+2. Select the title clip and open `Inspector → Title → Controls`.
+3. Keep `SYAFKA |` on the first line. Replace the second line with the current track title in capitals.
+
+   Example:
+
+       SYAFKA |
+       UNTIL WE ARE DUST
+
+4. Preview at phone size. If a longer title runs too close to the right edge, split the track name across two lines. Reduce the size only if needed.
+
+### Reference settings
+
+- Font: Open Sans, Bold
 - Colour: White
-- Size: 0.0591
+- Size: 0.0866
 - Tracking: 1.165
-- Line Spacing: 1.0
-- Keep text left-aligned.
-- Position the title below the centre of the vertical frame, as in the reference layout.
-- Adjust size or line breaks for longer track titles.
-- Check readability on a phone-sized display.
-- Keep text away from the extreme top, bottom and right-hand edges so platform controls do not cover it.
-- Check that the imported video does not already contain a visible title before adding another.
+- Line spacing: 1.0
+- Vertical anchor: Top (-1.0)
+- Horizontal anchor: Left (-1.0)
+- Placement: Below the centre of the vertical frame, matching the previous Reel
+
+If the exported footage already includes the title, skip the title clip.
 
 ## Export
 
