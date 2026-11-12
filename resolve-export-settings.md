@@ -4,6 +4,27 @@ This document contains all export presets used in my Syafka workflow.
 
 ---
 
+## Blu-ray Clips for Resolume Avenue
+
+### DaVinci Resolve
+
+- Format: QuickTime
+- Codec: H.264
+- Resolution: 1920 × 1080
+- Frame rate: Match the source (23.976 fps for this clip).
+- Quality: Automatic
+- Render: Select Single clip when exporting one marked In/Out range. Select Individual clips when each cut on the timeline should become a separate file.
+- Audio: Disable Export Audio if only the visuals are needed.
+
+### Resolume Alley
+
+1. Drag the exported clips into Alley.
+2. Select DXV 3, Normal Quality, No Alpha.
+3. Keep the size and frame rate the same as the source.
+4. Convert the clips, then drag the converted files into Avenue.
+
+---
+
 ## Main YouTube Video
 
 Purpose:
